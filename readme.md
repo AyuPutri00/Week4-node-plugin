@@ -1,6 +1,3 @@
-Oke Ayu 😊, ini aku gabungkan semua jadi **satu file `README.md`** siap dipakai di GitHub:
-
-````markdown
 # Tugas Minggu 4: Node.js Plugins (Week4-node-plugin)
 
 Proyek ini adalah implementasi tugas untuk mendemonstrasikan penggunaan beberapa package **Node.js** yang populer untuk memanipulasi dan mempercantik output pada terminal.
@@ -84,7 +81,7 @@ Jika kamu tidak memberikan argumen, skrip akan berjalan dengan **nilai default**
 
 Berikut adalah contoh tampilan output dari program ketika dijalankan:
 
-![Screenshot Output](screenshot.png)`
+![Screenshot Output](Screenshot.png)`
 
 ---
 
