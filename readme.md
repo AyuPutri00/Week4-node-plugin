@@ -27,7 +27,7 @@ Proyek ini adalah implementasi tugas untuk mendemonstrasikan penggunaan beberapa
 Jika proyek ini sudah ada di GitHub, clone repository ke komputermu:
 
 ```bash
-git clone https://github.com/USERNAME/Week4-node-plugin.git
+git clone https://github.com/AyuPutri00/Week4-node-plugin
 cd Week4-node-plugin
 ````
 
@@ -70,7 +70,7 @@ node index.js "Nama Lengkap Anda" "NIM Anda"
 ### Contoh Praktis:
 
 ```bash
-node index.js "Andi Pratama" "192837465"
+node index.js "Ayu Putri" "F1D022006"
 ```
 
 Jika kamu tidak memberikan argumen, skrip akan berjalan dengan **nilai default**.
