@@ -1,0 +1,24 @@
+{
+  "name": "week4-node-plugin",
+  "version": "1.0.0",
+  "description": "Tugas Node.js dengan Chalk, Cowsay, dan Figlet",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "chalk",
+    "cowsay",
+    "figlet"
+  ],
+  "author": "Nama Kamu",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.6.0",
+    "cowsay": "^1.6.0",
+    "figlet": "^1.9.0"
+  }
+}
